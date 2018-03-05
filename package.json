@@ -1,5 +1,5 @@
 {
-  "name": "is-desktop",
+  "name": "ua-tools",
   "version": "1.0.0",
   "description": "Check whether current browser is desktop.",
   "main": "index.js",
