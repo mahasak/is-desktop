@@ -8,5 +8,5 @@ var isDesktop = function() {
 
 module.exports = {
   isTouchDevice: isTouchDevice,
-  isDesktop: isDesktop;
+  isDesktop: isDesktop
 }
